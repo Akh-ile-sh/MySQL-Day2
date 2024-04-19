@@ -1,0 +1,7 @@
+CREATE TABLE Guvi_zen(
+  id INTEGER ,
+  course TEXT ,
+  description TEXT ,
+  duration INTEGER ,
+  fees INTEGER
+)
